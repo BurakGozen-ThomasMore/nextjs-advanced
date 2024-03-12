@@ -8,6 +8,7 @@
 4. De chevron geeft springend aan dat je naar beneden moet scrollen.
 5. De ul moet geleidelijk van grootte veranderen, van niets naar zijn volledige grootte.
 6. De li items moeten na elkaar verschijnen, waarbij elk item één voor één wordt weergegeven in plaats van allemaal tegelijk.
+7. De animatie start op het moment dat het zichtbaar wordt binnen het viewport van de gebruiker.
 
 ## Documentatie
 
