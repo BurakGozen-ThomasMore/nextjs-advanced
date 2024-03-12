@@ -13,9 +13,9 @@ export default async function Home() {
 
   return (
     <div className="grid grid-cols-4 p-10">
-      {todos.map((todo) => {
-        return <TodoCard key={todo.id} todo={todo} />;
-      })}
+      {todos.map((todo) => (
+        <TodoCard key={todo.id} todo={todo} />
+      ))}
     </div>
   );
 }
